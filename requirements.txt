@@ -1,0 +1,6 @@
+speechrecognition
+gtts
+pygame
+colorama
+openai
+python-dotenv

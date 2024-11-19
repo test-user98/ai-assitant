@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+
+# Virtual environments
+venv/
+env/
+*.egg-info/
+
+# Logs and Debug
+*.log
+
+# Audio files
+*.mp3
+
+# IDEs
+.vscode/
+.idea/
+
+# System
+.DS_Store
+Thumbs.db
