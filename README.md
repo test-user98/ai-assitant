@@ -1,7 +1,7 @@
 
 # Voice Assistant:
 
-**DEMO VIDEO**: [https://drive.google.com/file/d/19rRx1V1hV00ZGyITI1mE_iaXCyb-1JSv/view?usp=sharing](url)
+**DEMO VIDEO**: [https://drive.google.com/file/d/1Taos7sFwtWbJxx6JE8NQgKHipkDViJga/](url)
 
 ---
 
